@@ -1,5 +1,6 @@
-# web-ai
-AI-generated website (for demo purpose)
+# Container-Use Demo
+
+Simple demo of Web development with Claude and Container-Use
 
 ## Demo
 
