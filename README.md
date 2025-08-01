@@ -2,6 +2,10 @@
 
 Simple demo of Web development with Claude and Container-Use
 
+## Visual demo
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/jFW12iXGy0Q/0.jpg)](https://www.youtube.com/watch?v=jFW12iXGy0Q)
+
 ## Demo
 
 Install container-use
