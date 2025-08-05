@@ -2,11 +2,17 @@
 
 Simple demo of Web development with Claude and Container-Use
 
-## Visual demo
+## Start here...
+
+- [What is Container-Use?](https://container-use.com/introduction)
+- [Install & quick start](https://container-use.com/quickstart)
+- [Environment Workflow](https://container-use.com/environment-workflow)
+
+## Terminal demo
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/qfTFL37R72E/0.jpg)](https://www.youtube.com/watch?v=qfTFL37R72E)
 
-## Demo
+## Demo script
 
 Install container-use
 
