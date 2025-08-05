@@ -2,7 +2,7 @@
 
 Simple demo of Web development with Claude and Container-Use
 
-## Start here...
+## Start here
 
 - [What is Container-Use?](https://container-use.com/introduction)
 - [Install & quick start](https://container-use.com/quickstart)
